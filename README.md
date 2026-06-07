@@ -1,15 +1,15 @@
 ## ***minipot***
 A small, fully 3D printed portable dispenser that can carry four different liquids (or objects!) at once.  The top has a flower-shaped fidget that can spin. Small enough to be brought onto airplanes!
 
-## ***inspiration***  
+## ***Inspiration***  
 When I got into designing, this was the first project I wanted to make-- most dispensers with several sections are either overcomplicated or expensive one. So why not just make my own cheap, simple version at home? 
 
-## ***printing instructions***  
+## ***Buidling instructions***  
 1. download the STL files in the CAD section, or go open [this onshape link](https://cad.onshape.com/documents/12752ba0fa0450d7888da690/w/f0607cc00bcc6c2e5cc6eeec/e/e40bbccc0f6906579e540bed?renderMode=0&uiState=6a25f19dd99f1972caac2d89). (There are many different configurations to play around with--- check out the assembly files to find the one that suits you.)
 2. follow the directions on your own 3D printer's manufacturer's website/app to upload the STL files in and print them. support for the prints are not neeeded, as long as you have the models sitting on the correct side.
 3. Using the assembly STL files, put the parts together accordingly to your liking. 
 
-## ***GALLERY***
+## ***Gallery***
 <details>
   <summary>very first sketch/idea draft, 3D models, and the final builds!</summary>
 <img width="767" height="509" alt="image" src="https://github.com/user-attachments/assets/1fe55d25-e8e5-4159-aa0b-6ed3b2a74fd9" />
