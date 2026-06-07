@@ -11,7 +11,7 @@ When I got into designing, this was the first project I wanted to make-- most di
 
 ## ***GALLERY***
 <details>
-  <summary>very first sketch/idea draft, 3D models, and the final build!</summary>
+  <summary>very first sketch/idea draft, 3D models, and the final builds!</summary>
 <img width="767" height="509" alt="image" src="https://github.com/user-attachments/assets/1fe55d25-e8e5-4159-aa0b-6ed3b2a74fd9" />
 <img width="692" height="614" alt="image" src="https://github.com/user-attachments/assets/5497da3a-b3ee-4448-a835-8a2c63a52d3e" />
 <img width="512" height="509" alt="image" src="https://github.com/user-attachments/assets/082c1806-bf0b-415f-b02c-6469b2655ee4" />
@@ -20,6 +20,9 @@ When I got into designing, this was the first project I wanted to make-- most di
 <img width="241" height="200" alt="image" src="https://github.com/user-attachments/assets/5be308c4-21fe-48d9-a47e-dc2d4a875954" />
 <img width="642" height="805" alt="image" src="https://github.com/user-attachments/assets/153019fe-850a-48b4-80a1-95afd49f0123" />
 <img width="683" height="782" alt="image" src="https://github.com/user-attachments/assets/d07c2764-6a80-4b46-8eab-3c4ceb83cf91" />
-
-
+<img width="652" height="831" alt="image" src="https://github.com/user-attachments/assets/00c2827e-8185-4e66-8473-e0478ccb4cae" />
 </details>
+
+## ***Credits***
+This project used:
+- [Onshape](https://www.onshape.com/en/platform) (for case design)
