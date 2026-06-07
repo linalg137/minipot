@@ -7,4 +7,19 @@ When I got into designing, this was the first project I wanted to make-- most di
 ## ***printing instructions***  
 1. download the STL files in the CAD section, or go open [this onshape link](https://cad.onshape.com/documents/12752ba0fa0450d7888da690/w/f0607cc00bcc6c2e5cc6eeec/e/e40bbccc0f6906579e540bed?renderMode=0&uiState=6a25f19dd99f1972caac2d89). (There are two different base parts-- if your printer can make support well, then I would recommend you print the one with the edge, as it'll look more realistic).
 2. follow the directions on your own 3D printer's manufacturer's website/app to upload the STL files in and print them. support for the prints are not neeeded, as long as you have the models sitting on the correct side.
-3. Using the assembly STL file, put the parts together accordingly. 
+3. Using the assembly STL files, put the parts together accordingly to your liking. 
+
+## ***GALLERY***
+<details>
+  <summary>very first sketch/idea draft, 3D models, and the final build!</summary>
+<img width="767" height="509" alt="image" src="https://github.com/user-attachments/assets/1fe55d25-e8e5-4159-aa0b-6ed3b2a74fd9" />
+<img width="692" height="614" alt="image" src="https://github.com/user-attachments/assets/5497da3a-b3ee-4448-a835-8a2c63a52d3e" />
+<img width="512" height="509" alt="image" src="https://github.com/user-attachments/assets/082c1806-bf0b-415f-b02c-6469b2655ee4" />
+<img width="164" height="285" alt="image" src="https://github.com/user-attachments/assets/ff980d18-196a-4120-afb3-4b7ff9e558d0" />
+<img width="572" height="419" alt="image" src="https://github.com/user-attachments/assets/1906642a-79a5-424d-9051-754d120b192b" />
+<img width="241" height="200" alt="image" src="https://github.com/user-attachments/assets/5be308c4-21fe-48d9-a47e-dc2d4a875954" />
+<img width="642" height="805" alt="image" src="https://github.com/user-attachments/assets/153019fe-850a-48b4-80a1-95afd49f0123" />
+<img width="683" height="782" alt="image" src="https://github.com/user-attachments/assets/d07c2764-6a80-4b46-8eab-3c4ceb83cf91" />
+
+
+</details>
