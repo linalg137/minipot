@@ -1,3 +1,5 @@
+<img width="567" height="808" alt="image" src="https://github.com/user-attachments/assets/192a7f68-7321-4fc3-8353-e5ab7a589f8f" />
+
 ## ***Minipot***
 A small, fully 3D printed portable dispenser that can carry four different liquids (or objects!) at once.  The top has a flower-shaped fidget that can spin. Small enough to be brought onto airplanes!
 
