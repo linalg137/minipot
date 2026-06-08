@@ -23,8 +23,11 @@ When I got into designing, this was the first project I wanted to make-- most di
 <img width="642" height="805" alt="image" src="https://github.com/user-attachments/assets/153019fe-850a-48b4-80a1-95afd49f0123" />
 <img width="683" height="782" alt="image" src="https://github.com/user-attachments/assets/d07c2764-6a80-4b46-8eab-3c4ceb83cf91" />
 <img width="652" height="831" alt="image" src="https://github.com/user-attachments/assets/00c2827e-8185-4e66-8473-e0478ccb4cae" />
+<img width="478" height="1033" alt="image" src="https://github.com/user-attachments/assets/9757d0b9-8837-4ef6-b982-6e6b04ef56ee" />
+<img width="478" height="1033" alt="image" src="https://github.com/user-attachments/assets/9177b729-1f34-4687-9ff3-45db6f5f7f47" />
+<img width="435" height="709" alt="image" src="https://github.com/user-attachments/assets/57a47fd4-422c-4bfc-9c6a-6ea983c7e453" />
 </details>
 
 ## ***Credits***
 This project used:
-- [Onshape](https://www.onshape.com/en/platform) (for case design)
+- [Onshape](https://www.onshape.com/en/platform) (for the entire design)
